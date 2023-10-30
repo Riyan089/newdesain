@@ -1,0 +1,8 @@
+.article{
+    border-bottom: 2px solid wheat;
+    padding: 5%;
+}
+
+.article:last-child{
+    border-bottom:none;
+}
